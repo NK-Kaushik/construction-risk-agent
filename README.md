@@ -109,9 +109,8 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# 🧠 What I Built — Step by Step (Detailed Explanation)
+# 🧠 What I Built — Step by Step 
 
-This section explains **what I did, why I did it, and what each step achieves**.
 
 ---
 
